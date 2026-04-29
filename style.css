@@ -1,0 +1,59 @@
+body {
+margin: 0;
+font-family: "Cairo", sans-serif;
+background: #0f0f0f;
+color: #fff;
+text-align: center;
+}
+
+header {
+display: flex;
+justify-content: space-between;
+padding: 20px;
+background: #111;
+}
+
+header a {
+background: #c9a96e;
+padding: 10px 20px;
+border-radius: 20px;
+color: #000;
+}
+
+.hero {
+padding: 100px 20px;
+background: #000;
+}
+
+.hero h2 {
+font-size: 40px;
+}
+
+.btn {
+display: inline-block;
+margin-top: 20px;
+padding: 12px 25px;
+background: #c9a96e;
+color: #000;
+border-radius: 20px;
+}
+
+.services {
+padding: 50px 20px;
+}
+
+.grid {
+display: grid;
+grid-template-columns: repeat(2,1fr);
+gap: 10px;
+}
+
+.grid div {
+background: #222;
+padding: 20px;
+border-radius: 10px;
+}
+
+.contact {
+padding: 50px 20px;
+}
