@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "ألواح جبس بورد",
+    "description": "ألواح مناسبة للأسقف والجدران بتصاميم عصرية.",
+    "image": "images/gypsum.jpg"
+  },
+  {
+    "id": 2,
+    "name": "ألواح PVC",
+    "description": "ألواح عملية مقاومة للرطوبة وسهلة التنظيف.",
+    "image": "images/pvc.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ألواح بديل الرخام",
+    "description": "مظهر رخامي فاخر للجدران وشاشات التلفزيون.",
+    "image": "images/marble.jpg"
+  },
+  {
+    "id": 4,
+    "name": "بديل الخشب",
+    "description": "لمسة خشبية دافئة للمداخل والصالات والجدران.",
+    "image": "images/wood.jpg"
+  }
+]
